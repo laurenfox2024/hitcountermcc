@@ -1,2 +1,2 @@
 # hitcountermcc
-MCC Source Issue Record
+MCC Source Hit Time Stamp
